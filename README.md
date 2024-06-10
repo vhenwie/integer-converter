@@ -6,6 +6,13 @@ A simple cli app that takes in an integer and converts it to Binary (Base-2), Oc
 
 This is a piece of code that I was supposed to submit to a Facebook Live challenge, hosted by **[Frace Marteja](https://www.facebook.com/frace.marteja/)**.
 
+## Challenge
+```
+1. We divide the decimal number by 8/16/2 because 8/16/2 is a base value of octal/hexadecimal/binary numbers.
+2. We keep on dividing until the quotient becomes zero.
+3. The remainders are noted down and written in the reverse order in the combined form.
+```
+
 ## Usage
 
 ```
